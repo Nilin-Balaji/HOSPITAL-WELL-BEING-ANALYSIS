@@ -1,3 +1,4 @@
+**OVERVIEW:**
 This Project presents a comprehensive solution for optimizing hospital operations through data-driven analysis. 
 Leveraging a relational database model, dimensional modeling, and OLAP cube construction, the project facilitates efficient data organization and insightful querying. 
 The ETL process, implemented using SQL queries and SSIS packages, ensures seamless data extraction, transformation, and loading. 
